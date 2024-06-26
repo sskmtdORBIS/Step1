@@ -1,0 +1,1 @@
+<?php echo "こんにちは","<br>";/*echo "あざっす！！";*/echo "GoodBye!";?>

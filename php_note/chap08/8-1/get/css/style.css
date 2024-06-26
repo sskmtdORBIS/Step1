@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+div{
+	margin: 1em;
+}
+
+li {
+	list-style-type: none;
+	margin-bottom: 1em;
+}
+
+a{
+	color: #5e78c1;
+	text-decoration: none;
+}
+a:hover{
+	color: #b04188;
+	text-decoration: underline;
+}
